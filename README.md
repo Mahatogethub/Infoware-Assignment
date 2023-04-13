@@ -10,7 +10,7 @@
 
 ### How to start the project
 
-- git clone <myreponame>
+- git clone <repolink>
 
 - npm i
 
